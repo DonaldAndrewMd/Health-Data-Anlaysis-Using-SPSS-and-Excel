@@ -1,3 +1,6 @@
+# Title: Stroke in Young Adults: A Clinical and Demographic Profile
+**Tools Used: Excel, SPSS**
+
 # Results from the Analysis
 **Table 1: Sociodemographic Characteristics** 
 

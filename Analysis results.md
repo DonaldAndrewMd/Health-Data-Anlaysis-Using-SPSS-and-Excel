@@ -1,5 +1,5 @@
 # Results from the Analysis
-**Table 1: Sociodemographic Characteristics**
+**Table 1: Sociodemographic Characteristics** 
 
 |     |     |     |
 | --- | --- | --- |
@@ -26,14 +26,15 @@ The patient cohort was predominantly male (53.7%) and young, with a mean age of 
 
 
 ---
+## Chart 1: Risk Factors Associated With Incident Cases Of Acute Stroke In The Young Population.
+
 
 <img width="771" height="438" alt="image" src="https://github.com/user-attachments/assets/9a745027-b1bd-4886-8d16-995c84d5013a" />
 Hypertension is overwhelmingly the most prevalent risk factor, affecting more than 8 out of 10 patients (80.5%). This firmly establishes uncontrolled high blood pressure as the dominant, modifiable driver of stroke in this young population. A history of alcohol intake was the second most common factor (39.0%), while traditional risk factors like smoking (4.9%) and diabetes (4.9%) were relatively less frequent. Other notable contributors include cardiac diseases (12.2%) and a family history of stroke (14.6%).
-**Chart 1: Risk Factors Associated With Incident Cases Of Acute Stroke In The Young Population.**
 
+---
 
-
-**Table 2: Distribution of Pulse Rate, Blood Pressure, and Random Blood Sugar Levels Among Acute Stroke Patients**
+## Table 2: Distribution of Pulse Rate, Blood Pressure, and Random Blood Sugar Levels Among Acute Stroke Patients
 
 |     |     |     |
 | --- | --- | --- |
@@ -55,7 +56,7 @@ Hypertension is overwhelmingly the most prevalent risk factor, affecting more th
 | Diabetes(≥200) | 1   | 2.4% |
  Hypertension was the most critical modifiable risk factor, with 75.6% of patients in Stage 2 or Hypertensive Crisis. While most patients had a normal pulse (97.6%), notable tachycardia (>100 bpm) was present in 19.5%. Blood sugar levels showed a significant proportion of low readings (39%), which may indicate stress response or measurement timing, while overt diabetes was less common (2.4%).
 ---
-**Table 3: Distribution of GCS Scores and Neurological Examination Findings Among Acute Stroke Patients**
+## Table 3: Distribution of GCS Scores and Neurological Examination Findings Among Acute Stroke Patients
 
 |     |     |     |
 | --- | --- | --- |
@@ -73,12 +74,12 @@ Hypertension is overwhelmingly the most prevalent risk factor, affecting more th
 Stroke severity was split, with 51.2% having mild and 48.8% having moderate impairment based on GCS. Neurologically, cerebellar ataxia was nearly universal (95.1%), followed by hemiparesis/hemiplegia (65.9%) and cranial neuropathy (46.3%), indicating a high burden of motor and coordination deficits in this young population.
 ---
 
+## Chart 2: Status at 7 days post-stroke onset
 <img width="744" height="545" alt="image" src="https://github.com/user-attachments/assets/1ca0594e-9421-46df-a2e3-6c1e909d72c1" />
 By day seven, survival was high (92.7%), but a clear majority of patients (53.7%) were living with a new disability. This indicates that while the immediate life threat was overcome for most, the stroke event resulted in significant, lasting physical or cognitive impairments for over half of the young cohort. Conversely, a notable 39.0% achieved recovery without disability, reflecting cases of less severe strokes or highly effective acute care. The 7.3% mortality rate within the first week highlights the acute fatality risk of severe strokes in young adults.
 
-**Chart 2: Status at 7 days post-stroke onset**
 
-
+---
 
 # Interpretation & Discussion of Findings
 

@@ -1,4 +1,4 @@
-
+# Results from the Analysis
 **Table 1: Sociodemographic Characteristics**
 
 |     |     |     |
@@ -21,10 +21,14 @@
 | Unskilled | 6   | 14.6% |
 | Professional occupation | 3   | 7.3% |
 | Others | 3   | 7.3% |
+
+The patient cohort was predominantly male (53.7%) and young, with a mean age of 43.6 years and nearly equal distribution above and below 45. A large majority (87.8%) were employed, primarily in skilled occupations (56.1%), suggesting strokes are affecting economically active individuals.
+
+
 ---
 
 <img width="771" height="438" alt="image" src="https://github.com/user-attachments/assets/9a745027-b1bd-4886-8d16-995c84d5013a" />
-
+Hypertension is overwhelmingly the most prevalent risk factor, affecting more than 8 out of 10 patients (80.5%). This firmly establishes uncontrolled high blood pressure as the dominant, modifiable driver of stroke in this young population. A history of alcohol intake was the second most common factor (39.0%), while traditional risk factors like smoking (4.9%) and diabetes (4.9%) were relatively less frequent. Other notable contributors include cardiac diseases (12.2%) and a family history of stroke (14.6%).
 **Chart 1: Risk Factors Associated With Incident Cases Of Acute Stroke In The Young Population.**
 
 
@@ -49,7 +53,7 @@
 | Normal (70–139) | 22  | 53.7% |
 | Prediabetes(140–199) | 2   | 4.9% |
 | Diabetes(≥200) | 1   | 2.4% |
-
+ Hypertension was the most critical modifiable risk factor, with 75.6% of patients in Stage 2 or Hypertensive Crisis. While most patients had a normal pulse (97.6%), notable tachycardia (>100 bpm) was present in 19.5%. Blood sugar levels showed a significant proportion of low readings (39%), which may indicate stress response or measurement timing, while overt diabetes was less common (2.4%).
 ---
 **Table 3: Distribution of GCS Scores and Neurological Examination Findings Among Acute Stroke Patients**
 
@@ -66,8 +70,54 @@
 | Cerebellar ataxia | 39  | 95.1% |
 | Cranial neuropathy | 19  | 46.3% |
 | Meningeal irritation | 3   | 7.3% |
+Stroke severity was split, with 51.2% having mild and 48.8% having moderate impairment based on GCS. Neurologically, cerebellar ataxia was nearly universal (95.1%), followed by hemiparesis/hemiplegia (65.9%) and cranial neuropathy (46.3%), indicating a high burden of motor and coordination deficits in this young population.
 ---
 
 <img width="744" height="545" alt="image" src="https://github.com/user-attachments/assets/1ca0594e-9421-46df-a2e3-6c1e909d72c1" />
+By day seven, survival was high (92.7%), but a clear majority of patients (53.7%) were living with a new disability. This indicates that while the immediate life threat was overcome for most, the stroke event resulted in significant, lasting physical or cognitive impairments for over half of the young cohort. Conversely, a notable 39.0% achieved recovery without disability, reflecting cases of less severe strokes or highly effective acute care. The 7.3% mortality rate within the first week highlights the acute fatality risk of severe strokes in young adults.
 
 **Chart 2: Status at 7 days post-stroke onset**
+
+
+
+# Interpretation & Discussion of Findings
+
+This analysis of young stroke patients paints a clear and concerning picture of a major health crisis affecting adults in their prime.
+
+## 1. The Profile of a Young Stroke Patient
+The typical patient is a working man around 44 years old. He is likely employed, often in a skilled trade, meaning he is in the middle of his career and potentially a primary breadwinner. This demographic shatters the common misconception that stroke is an "old person's disease" and highlights its massive socioeconomic impact, threatening family stability and workforce productivity.
+
+## 2. The Overwhelming Culprit: Hypertension
+The single most critical finding is that high blood pressure is the central villain. A staggering **80.5%** of patients had hypertension, with most cases severe. Hypertension is often called the "silent killer" because it damages blood vessels for years without obvious symptoms.  
+
+In this young cohort, it appears to be poorly controlled or undiagnosed, creating a ticking time bomb that culminated in a brain attack. This points to a significant gap in preventative healthcare and routine screening for young adults.
+
+## 3. The Role of Other Risk Factors
+While hypertension dominates, other factors contribute to the risk profile:
+
+- **Alcohol intake (39%)**: A notable behavioral factor that can raise blood pressure and contribute to other vascular problems.  
+- **Smoking and diabetes (each 4.9%)**: Surprisingly rare in this group, suggesting that in young adults, uncontrolled hypertension may be a more potent immediate risk factor than these other traditional dangers.  
+- **Family history (14.6%) and pre-existing heart conditions (12.2%)**: Genetics and other health issues also play a role for a subset of patients.  
+
+## 4. Severe and Debilitating Outcomes
+The strokes these patients suffered were not mild. The neurological damage was substantial:
+
+- **Balance and coordination problems**: Nearly universal (**95.1%**)  
+- **One-sided weakness**: Frequent (**65.9%**)  
+- **Nerve-related facial/functional issues**: Common (**46.3%**)  
+
+This led directly to the stark outcome after one week:
+
+- **Alive but with disability**: **53.7%**  
+- **Recovered without disability**: **39%**  
+- **Mortality**: **7.3%**
+
+These figures highlight immediate life changes—an inability to work, walk unassisted, or care for themselves.
+
+## 5. The Big-Picture Implications
+This is more than a medical case series; it's a snapshot of a public health challenge:
+
+- **Prevention Failure**: The epidemic of uncontrolled hypertension in young adults suggests failures in primary healthcare, public awareness, and access to routine check-ups.  
+- **Economic Burden**: Disabling a skilled worker in their 40s creates decades of potential lost income, ongoing medical costs, and caregiving needs, burdening families and the healthcare system.  
+- **Need for Targeted Action**: Campaigns about stroke must target younger audiences, emphasizing blood pressure control, moderation of alcohol, and the recognition of stroke symptoms (like sudden imbalance or weakness) for immediate emergency response.
+
